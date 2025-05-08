@@ -1,6 +1,6 @@
 # Banking System
 
-A secure and feature-rich banking system implemented in Python. This project demonstrates core banking operations with a focus on security and best practices.
+Hi there! This is a secure and feature-rich banking system implemented in Python. This project demonstrates core banking operations with a focus on security and best practices.
 
 ## Features
 
@@ -80,6 +80,4 @@ banking-system/
 
 Feel free to submit issues and enhancement requests!
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+Author: Reyna Dai
